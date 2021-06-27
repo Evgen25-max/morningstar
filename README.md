@@ -22,7 +22,7 @@ You need to install:
    - temp_express_analiz
  
  Using example:
- Input: financial statements from morningstar (examples in directory in)
- Start balance_income_dividents_to_mongoDB.py. 
- Start analiz_mongoDB.py. 
- Output: score collection, log in log dir
+ * Input: financial statements from morningstar (examples in directory in)
+ * Start balance_income_dividents_to_mongoDB.py. 
+ * Start analiz_mongoDB.py. 
+ * Output: score collection, log in log dir
